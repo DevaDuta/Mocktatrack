@@ -1,3 +1,4 @@
+Was trying things on Modwerk.app for my Octatrack MKII. Accidentally created something that I can't reproduce so thought maybe I should share. Combined: Bass Drum, FM synth, Poly-8, Mini-Verb, Tape Echo and Sidechain Compressor.
 Get it done in 8 easy steps.
 1. Connect Octatrack via USB.
 2. Push: [PROJ]
